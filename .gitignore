@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.env
+*.gguf
+*.parquet
+data/propre/
+evaluation/resultats/classifieur.joblib
+.DS_Store

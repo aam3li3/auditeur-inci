@@ -1,0 +1,974 @@
+code,nom,marque,cible,prediction,probabilite
+0062600061065,daily moisturizer with salicylic acid,Aveeno,0,0,0.093
+0200030071050,Shampoo No Perfume,Tiger,0,0,0.015
+0697045153053,Ahava savon hydratant aux sels,Ahava,0,1,0.724
+0697045153060,Ahava savon purifiant à la boue,Ahava,0,1,0.788
+07812133,Démaquillant yeux waterproof à l'extrait de prune,By U,0,0,0.424
+26020358,Mascara Définition et Soins Noir,Biocura,0,0,0.002
+26023038,Lait démaquillant Douceur OU Lotion tonique Douceur,Biocura,0,0,0.0
+26023229,Man men's care Shampooing Douche 3 en 1 Ocean,Mc Bride,0,0,0.0
+26023410,Déodorant Océan 24H,Man,0,0,0.002
+26023717,Anti-âge Soin de jour Q10 Active,Biocura,0,0,0.0
+30096189,La Confidente,Omum,1,1,0.584
+3040690666022,Stick protection solaire SPF50,Doctissimo,0,0,0.011
+3040690666206,Soin des lèvres hydra,Doctissimo,0,0,0.006
+3040690666220,Soin des lèvres Funky fraise,Doctissimo,0,0,0.002
+3040690666237,Soin des lèvres So irisé,Doctissimo,0,0,0.001
+3040690666244,Soin des lèvres Crazy coco,Doctissimo,0,0,0.004
+3058320006001,Lait de toilette très doux Vitamine E Huile d'amande douce,Mixa Bébé,0,0,0.001
+3140100143058,Shampooing Force Protection,Pétrole Hahn,0,0,0.0
+3140100261325,Shampooing Special Pellicules (format économique),Pétrole Hahn,0,0,0.0
+3140100320930,Douche Fraîcheur Mentholée ,Pétrole Hahn,0,0,0.001
+3140100320978,Douche Fraîcheur Epicée,Pétrole Hahn,0,0,0.001
+3140100336979,Shampooing expert anti pelliculaire Citrus,Pétrole Hahn,0,0,0.0
+3140100339581,Shampooing expert anti pelliculaire Pureté,Pétrole Hahn,0,0,0.0
+3140100339598,Shampooing expert anti pelliculaire anti démangeaisons,Pétrole Hahn,0,0,0.0
+3140100339604,Shampooing expert anti pelliculaire Fresh,Pétrole Hahn,0,0,0.0
+3140700780868,Shampooing Volume,Kéranove,0,0,0.0
+3141380013000,Crème mains réparatrice fraise & menthe,Groupe Panther,0,0,0.0
+3141380042536,La Fleur d'Oranger Douche Lait Sensuelle,Cottage,0,0,0.002
+3141380055192,La Guimauve Douche crème Ultra Douce,Cottage,0,0,0.277
+3178040253070,"Eau Démaquillante Express 3 en 1 Visage, Yeux et Lèvres",Henkel,0,0,0.0
+3178040433809,Lift+ Éclat Immédiat Soin Tenseur Éclat Anti-Âge Visage et Cou,Henkel,0,0,0.011
+3178040554931,Expert Rides 3D Activateur Hyaluronique Crème Anti-rides Nuit,henkel,0,0,0.0
+3178040619869,Yoghurt Coconut,Henkel,0,0,0.0
+3178040633179,Gel Lavant Douceur Pure à l'Hamamelis,Henkel,0,0,0.001
+3178040648470,Gel lavant douceur fruitée à la pêche,Henkel,0,0,0.0
+3178040667044,Cream & Oil Beurre de cacao Huile de coco Crème de douche,Henkel,0,0,0.0
+3178040669536,Syoss Color Protect Shampooing,Henkel,0,0,0.0
+3178040675278,Fa Men extreme cool douchegel,Henkel,0,0,0.0
+3178040680876,Eau démaquillante,Henkel,1,0,0.471
+3178040682405,Fa Men Black Moon Piment Rouge,Henkel,0,0,0.003
+3178040687790,Expert rides 3D - Soin anti-rides haute performance nuit,Henkel,0,0,0.001
+3178040694156,Lotion micellaire démaquillante Haute Tolérance,Henkel,0,0,0.061
+3178040695160,Lift + Lissage immédiat Gel-Crème Sublime Regard,Henkel,0,0,0.0
+3178040695771,Vademecum Homéophytol,Henkel,0,0,0.0
+3178040699021,Lift + BB mousse Soin Anti-âge Teinté,Henkel,0,0,0.003
+3178041301855,Vitamin & Power Vitamin E + Guava Energisant,Henkel,0,0,0.0
+3178041302104,N°110 Gelée de beauté,Henkel,0,0,0.002
+3178041302111,N°110 Crème de beauté haute performance anti-âge jour,Henkel,0,0,0.0
+3178041302135,Jeunesse infusée concentré anti-rides,Henkel,0,0,0.0
+3178041302159,Teraxyl Complet Plus 2 en 1,Henkel,0,0,0.028
+3178041307116,Lift+ Ultra Repulpant Nuit,Henkel,0,0,0.003
+3178041308410,Expert Cellulaire 3D Crème Fondamentale Reconstituante Jour,Henkel,0,0,0.0
+3178041308793,Teraxyl - 2 en 1 - Dentifrice + Bain de Bouche - Non-Stop Fresh aux essences de Menthe,Henkel,0,0,0.007
+3178041315494,Lift + Super Correcteur Soin de Jour SPF 15 anti-Rides Correcteur,Henkel,0,0,0.0
+3178041315791,Amino Power cheveux & corps,Henkel,0,0,0.0
+3178041316323,Syoss Gloss Sensation Blond Miel 7-86,Henkel,0,0,0.0
+3178041327895,Island Vibes Hawai Love parfum Ananas Fleur Tropicale,Henkel,0,0,0.003
+3178514699564,Syoss Oleo Supreme 4-18 Marron Chocolat,Henkel,0,0,0.0
+3181730142042,Dermo Hypo-allergenic,Sanex,0,0,0.004
+3181730191170,Zero 0% Gel douche Peaux Normales,Sanex,0,0,0.031
+3250391151844,Shampooing Vanille Abricot,Labell,0,0,0.003
+3250391335992,Gel lavant mains Savon de Marseille & Feuilles d'olivier,Labell,0,0,0.0
+3250391433247,Mousse lavante mains aux parfums de fruits rouges,Labell,0,0,0.004
+3250391551071,Dissolvant à l'huile de ricin,Labell,0,0,0.258
+3250391965762,My Nails Corail Samba,Labell,0,0,0.022
+3251241035154,Shampooing au lait d'avoine et à la gelée royale,Le Petit Marseillais,0,0,0.0
+3251241041667,72% Extra Pur à l'Huile d'Olive,Le Petit Marseillais,0,1,0.755
+3251241047584,Huile pour bébé idéale massage,Prim'age,0,0,0.065
+3251241047676,Shampoing pour cheveux colorés,Le Petit Marseillais,0,0,0.002
+3251241047737,Douche Crème de soin Hydratation intense,Le Petit Marseillais,0,0,0.085
+3251241047966,Shampooing anti pellliculaire 4 huiles essentielles et extrait de cédrat cheveux gras,Le Petit Marseillais,0,0,0.137
+3251248045859,Savon soin à l'huile d'amande douce,Le Petit Marseillais,0,0,0.005
+3251248046245,Savon à la Verveine et au Citron,Le Petit Marseillais,0,0,0.302
+3253581111550,Nectar de Massage,L'Occitane,0,0,0.024
+3253581258743,Jasmin & bergamote - douche parfumée,L'occitane,0,0,0.0
+3253581258910,Jasmin & Bergamote,L'Occitane,0,0,0.001
+3256223379677,Lait de douche hydratant aux extraits naturels fleur d'amandier citron,By U,0,0,0.0
+3256223818497,Déodorant parfumé so sexy,By U Homme,0,0,0.015
+3256224359203,Eau micellaire visage & yeux à l'extrait de myrtille,By U,0,0,0.397
+3256224359241,Lait corps hydratant à l'extrait de pêche,By U,0,0,0.038
+3256224359418,Soin visage nourrissant à l'extrait de mangue,By U,0,0,0.05
+3264680010330,Soin anti-âge yeux rechargeur jeunesse et perfection,Laboratoire Nuxe,0,0,0.0
+3282770014112,Crème réparatrice Dermalibour+,Pierre Fabre,0,0,0.005
+3283950910910,Masque Argile rose,Cattier,1,1,0.732
+3283950911054,Argimiel Savon doux végétal,Cattier,1,1,0.848
+3283950911078,Savon Cattier,Cattier,1,1,0.83
+3283950911900,Gel douche Lavande,Cattier,1,1,0.797
+3283950912594,Shampooing démêlant parfum pomme Kids bio,Cattier,1,1,0.891
+3283950914819,Masque Argile - Argile verte Menthe,Cattier,1,1,0.703
+3283950914826,Masque Argile - Argile jaune Hamamélis,Cattier,1,1,0.844
+3283950916776,Crème mains Argile blanche Fleur d'impératoire,Cattier,1,1,0.949
+3283950919166,Cattier Bébé Liniment Lait Crème Pour Le Change,Cattier,1,1,0.885
+3284410002008,Les Solyflores - eau de toilette Musc - Gigembre,Les Solyflores,0,1,0.594
+3298651711360,Savon liquide de Marseille,Marius Fabre,0,0,0.265
+3298651778172,Savon à l'huile d'olive sans parfum,Marius Fabre,0,1,0.544
+3331300097856,Shampooing sec fraîcheur et volume format pocket,Church & Dwight,0,0,0.004
+3331840550002,Gel Décolor' Express visage,Blondépil,0,0,0.0
+3331849000041,Decolor' sans ammoniaque,Blondépil,0,0,0.0
+3348070010633,Henné poudre - Neutre,Capie,0,1,0.689
+3350031684692,Dissolvant Soin,Monoprix,0,0,0.001
+3350031684708,Dissolvant express sans acétone,Monoprix,0,0,0.489
+3350031684722,Dissolvant Soin sans acétone,Monoprix,0,0,0.001
+3350031898143,Lait démaquillant Monoprix Bio,Monoprix,1,1,0.965
+3350033018884,Déodorant magnolia parfumé,Monoprix,0,0,0.02
+3350033025554,Bain de bouche multi-protection antiplaque,Monoprix,0,0,0.002
+3350033025561,Bain de bouche Multi-Protection Antiplaque,Monoprix,0,0,0.013
+3350033086890,Déodorant Homme Musc Parfumé 24H,Monoprix,0,0,0.005
+3350033199934,Gel douche Guarana Gingembre,Monoprix,0,0,0.0
+3365000012536,Savon de Marseille,Compagnie du Midi,0,0,0.225
+3387101121207,Shampooing Poils longs,Héry,0,0,0.0
+3401325941622,Saforelle soin lavant doux toilette intime et corporelle,Saforelle,0,0,0.01
+3401347507264,Shampooing reflets à l'huile de camélia,Martine Mahé,0,0,0.0
+3401397163496,Cicabio crème,Bioderma,0,0,0.028
+3401520717770,,,0,0,0.001
+3401528519895,Atoderm huile de douche,Atoderm,0,0,0.064
+3401563226963,Complément anti-chute,Puressentiel,0,1,0.591
+3476132177199,Graisse à traire scintillante,Tahi'Sun,0,0,0.0
+3489940035223,Savon de beauté lavande au lait d'ânesse bio,Cosmo Naturel,1,1,0.971
+3489940049237,Shampooing Cheveux secs Karité - Jojoba - Aloe,Cosmo Naturel,1,1,0.997
+3489940049251,Shampooing usage fréquent Miel - Calendula - Avoine,Cosmo Naturel,1,1,0.986
+3504105024567,Savon surgras au Cold Cream nutri-protecteur,Mustela,0,1,0.655
+3504105029982,Crème hydratante apaisante visage,Mustela,0,0,0.216
+3508240000271,Magnificence nuit gel-en-baume lissant détoxifiant rides - fermeté - éclat,Alès groupe,0,0,0.0
+3511720100088,Savon d'Alep à l'huile d'olive et de laurier parfum citron,Chemins d'Orient,0,1,0.877
+3515775772108,Shampooing naturel aux herbes,Martine Mahé,0,1,0.683
+3517360003314,Nutritive Gel nettoyant surgras,Eau thermale Jonzac,1,1,0.953
+3517360003673,Gel nettoyant purifiant,Eau thermale Jonzac,1,1,0.816
+3517360009552,Shampooing Douche Verveine Citron Bio,Lea Nature,1,1,0.991
+3518646023477,Gel douche Vanille ambrée,Laboratoires Gilbert,0,1,0.784
+3538394612839,Shampooing douche ulta doux sans savon aux algues,Coslys,1,1,0.739
+3538394920033,shampooing cheveux normaux à la reine des prés bio,COSLYS,1,1,0.985
+3560070848898,SensilianeSun lait protecteur 50+,Dermato Science,0,0,0.0
+3564700293492,Crème lavante Fleurs d'oranger,Manava,0,0,0.125
+3564700556009,Démaquillant 2 en 1,Inell,0,0,0.0
+3564700746851,Lait corps sous la douche,Inell,0,0,0.005
+3567730300147,Bio Capilargil Specific Shampooing Argile et Extraits végétaux Régénérateur Cheveux Abimés,Dermaclay,1,1,0.993
+3567730300239,Bio Capilargil Specific Shampooing Argile et Extraits végétaux Pellicules,Dermaclay,1,1,0.98
+3567730300246,Bio Capilargil Specific Shampooing Argile et Extraits végétaux Cheveux Gras,Dermaclay,1,1,0.934
+3567730300253,Bio Capilargil Specific shampooing Argile et Extraits végétaux Super Tonus ,Dermaclay,1,1,0.761
+3567730300260,Shampooing reflet et brillance,Dermaclay,1,1,0.968
+3567730300437,Shampooing 2 en 1 démêlant Fraise Grenade Lait de coton,Dermaclay Junior,1,1,0.993
+3567730300444,Shampooing abricot pêche lait de coton,Dermaclay,0,1,0.967
+3574134711332,Crème hydratante Visage & corps Olive & Amande douce,Le petit marseillais,0,0,0.315
+3574660704204,,Le Petit Marseillais,0,0,0.357
+3574660724349,Douche et bain extra doux Aloe Vera,Le Petit Marseillais,0,0,0.008
+3574661005904,Shampooing Abricot extra doux,Le Petit Marseillais,0,0,0.013
+3574661007113,Shampooing lait d'olive - cheveux normaux,Le petit Marseillais,0,0,0.04
+3574661008516,Châtaigne & Pistache Douche,Le Petit Marseillais,0,0,0.003
+3574661039060,Shampooing Reflets Bruns,Le Petit Marseillais,0,0,0.003
+3574661042220,Déodorant Rose Douceur Huile essentielle de Sauge 24H,Le Petit Marseillais,0,0,0.025
+3574661050836,Gel lavant hypoallergenique aloe vera et tilleul,Le Petit Marseillais,0,1,0.804
+3574661065335,Verveine & Citron Gel douche Extra Doux,Le Petit Marseillais,0,0,0.0
+3574661065359,Gel douche extra doux Mandarine & citron vert,Le Petit Marseillais,0,0,0.0
+3574661104874,Shampooing Protection & Réparation à la Sève d'Olivier & Lait d'Acacia,Le Petit Marseillais,0,0,0.005
+3574661133102,Le petit soin longueurs et pointes nutrition au Lait de karité et au miel,Le Petit Marseillais,0,0,0.002
+3574661151267,Douche et bain crème hypoallergénique sans savon - Seve d'aloe vera et fleur d'amandier,Le Petit Marseillais,0,0,0.345
+3574661154022,Lait Hydratant Hypoallergénique Sève d'Aloe Vera & Camomille,Le Petit Marseillais,0,0,0.002
+3574661188751,Pin maritime et Eucalyptus,Le Petit Marseillais,0,0,0.001
+3574661192031,"Douche Baume de soin Nutrition intense, beurre de coco, cire d'abeille & huile de karité",Le Petit Marseillais,0,0,0.027
+3574661204598,Déodorant douceur Huile essentielle de Sauge Fleur de Coton,Le Petit Marseillais,0,0,0.0
+3574661211121,Douche gel surgras hypoallergénique à la sève d'aloe vera et à l'eau de fleur d'oranger,Le Petit Marseillais,0,1,0.555
+3574661213729,"Huile nutritive réparation peaux abîmées, desséchées  beurre de karité aloes et huile de carthame",Le Petit Marseillais,0,0,0.118
+3574661218083,Baby Oil,Johnson's,0,0,0.065
+3574661218540,Top-to-toe baby bath,Johnson's,0,0,0.044
+3574661250335,Baume nourrissant soin marin ressourçant,Le Petit Marseillais,0,0,0.002
+3574661257525,Gel douche Soin marin Fraicheur,Le Petit Marseillais,0,0,0.011
+3574661257532,Douche crème soin marin ressourçante,Le Petit Marseillais,0,0,0.327
+3574661309682,Fraîcheur détox,Le Petit Marseillais,0,0,0.261
+3574661318332,hydro boost,neutrogena,0,0,0.001
+3574661319216,Au pays du miel & une nuit,Le Petit Marseillais,0,0,0.029
+3574661355146,Pin & Criste Marine (lot de 3),Le Petit Marseillais,0,0,0.001
+3596204358506,Weleda Baby Calendula Bodymilk,Weleda,1,0,0.224
+3596204358520,Weleda Bébé Calendula - Crème protectrice Visage,Weleda,1,0,0.415
+3596204519990,Weleda Bébé Huile de Massage Ventre de Bébé,Weleda,1,1,0.65
+3596205152127,Shampooing équilibrant Blé,Weleda,1,1,0.63
+3596205152158,Shampooing régénérant Avoine,Weleda,1,1,0.844
+3596205185095,Savon végétal à la lavande,Weleda,1,1,0.852
+3596206289112,Crème à raser,Weleda,0,1,0.915
+3596206529621,Weleda Bébé Calendula - Crème pour le change,Weleda,1,0,0.029
+3596209532659,Amande crème confort absolu,Weleda,1,0,0.481
+3596209656003,Weleda Bébé Huile de toilette au Calendula,Weleda,1,1,0.751
+3596209936310,Lait corps vivifiant Citrus,Weleda,1,1,0.875
+3596209937119,Weleda Bébé Calendula - Bain Crème ,Weleda,1,1,0.652
+3600523558469,Lavandin Concoction apaisante Shampooing,,0,0,0.0
+3600550106541,Coquette Pomme,Corine Cobson,0,0,0.0
+3600550235784,Shampoing - cheveux fragiles,Mixa bébé,1,1,0.554
+3607343514941,BB cream radiance 9 en 1 SPF 25 - 00? très claire,Rimmel,0,0,0.002
+3607343730341,BB cream radiance 9 en 1 SPF 20 - 001 claire,Rimmel,0,0,0.0
+3607349606053,BB cream radiance 9 en 1 SPF 25 - 002 medium,Rimmel,0,0,0.001
+3662217003877,Mascara Longue Tenue Noir,Avril,1,1,0.966
+3700100721108,Gomme epil minute,body minute,0,0,0.002
+3700446411596,Gel Aloé Vera bio,BELLE ET BIO,1,1,0.982
+3700446411701,Gommage douceur visage Grain de riz et argan,Belle & Bio,1,1,0.943
+3700479107206,L'Authentique Savon d'Alep,La Maison d'Orient,0,1,0.877
+3700601507850,Gel douche Lait d'anesse,La maison du savon de Marseille,0,0,0.002
+3700719002278,Adopt' Oriental Baume et Bois,Folies douces,0,0,0.226
+3700719002889,Adopt' Floral Eau argentée,Folies douces,0,0,0.033
+3760099590246,Savon Crème de Beauté,Cleopatra,0,0,0.105
+3760211480202,Alga Maris Crème solaire bio SPF 50+,Laboratoires Biarritz,1,1,0.994
+3760214630017,La Surdouée,Omum,1,1,0.819
+3760214630024,Le Bienfaiteur,Omum,1,1,0.995
+3760214630031,Le Cajoleur,Omum,1,1,0.751
+3760214630161,L'Intime,Omum,1,1,0.916
+3760214630178,Le Coach fermeté,Omum,1,0,0.194
+3760214630185,Ma Jolie Peau,Omum,1,0,0.098
+3760214630208,L'Expert,Omum,1,1,0.756
+3760214630260,Le Délicat,Omum,1,1,0.969
+4001499930577,Aloe Vera Cremeseife,Frosch,0,0,0.005
+4001638075107,Weleda Kids Douche & Shampooing 2-en-1 Citron Vert Pétillant,Weleda,1,1,0.809
+4001638075121,Weleda Kids Douche & Shampooing 2-en-1 Vanille Douce ,Weleda,1,1,0.771
+4005900122063,Active Clean,Nivea Men,0,0,0.003
+4005900164810,COOl Rasierschaum,NIVEA Men,0,0,0.011
+4008890007907,Totes Meer Haut & Haar Duschgel sinsitiv,Salthouse,0,0,0.0
+4015000536042,Lockenflex Locken Balm,Henkel,0,0,0.0
+4015000798457,Kids Douche & Shampoo,Henkel,0,0,0.0
+4015000911955,2 in 1 - Zahncreme + Mundspülung - Original,Henkel,0,0,0.006
+43437382,Saforelle soin intime et corporel Miss,Saforelle,0,0,0.015
+5025416030330,Coconut Water Superbly Luscious Shampoo with coconut oil,Just Coco,0,0,0.0
+5053264290743,Vernis à ongles,Claire's,0,0,0.058
+5410091614041,Démaquillant yeux,Henkel,0,0,0.0
+5410091668297,Dr. Caspari Combleur Rides,Henkel,0,0,0.0
+5410091669836,Dentifrice + Eau buccale 2 en 1 Junior,Henkel,0,0,0.015
+5410091710897,Lift+ Color Correction,Henkel,0,0,0.0
+5410091718350,Shampoo fréquence,Henkel,0,0,0.0
+5414971009354,Shampooing à l'extrait de camomille et bleuet Extra Doux,Belgian Cosmetic Brands,0,0,0.001
+5765228837825,Toothpaste tea tree,urtekram,1,1,0.96
+5908311862469,Зубная паста Aquafresh Мягко-Мятная,Aquafresh,0,0,0.138
+7610108016013,Protection carries,Elmex,0,0,0.207
+7899572801992,LOLA VINTAGE GIRLS,LOLA COSMETICS,0,0,0.002
+8001280038273,Fresco,Felce Azzura,0,0,0.003
+8105814928501,Kotydia Tolérance Optimale Gel de toilette intime doux,Vania,0,0,0.002
+8710908188015,Feel Bubbly met Passievrucht & Jasmijn Douchegel,Badedas,0,0,0.0
+8710908315244,Fun & Délicieuse ! Pêche & Mangue,Monsavon,0,0,0.008
+8710908315428,Fun & Pétillante Abricot & Orange,Monsavon,0,0,0.0
+8710908536465,Monsavon Déodorant Femme Spray Compressé Grenade Tellement Fraîche 2x100ml,Monsavon,0,0,0.003
+8711341465022,Bain de Bouche Anti Plaques,Rident,0,0,0.011
+8714789862606,"DermoRestore Douche crème peaux abimées, peaux sèches",Sanex,0,0,0.0
+8714789867427,Surgras réparateur peaux sensibles,Sanex,0,0,0.001
+8714789928920,Natur Protect à la pierre d'alun 24h (duo pack),Sanex,0,0,0.003
+8714789940533,Dermo protector,Sanex,0,0,0.001
+8714789998299,"AtopiDerm douche crème peaux sèches, réactives à atopiques",Sanex,0,0,0.001
+8718951087521,Men Shampooing Antipelliculaire,Sanex,0,0,0.0
+8719134011203,The Ritual of Ayurveda Nourishing Ultra-Shine Shampoo,Rituals…,0,0,0.0
+3350033307353,Crème dépilatoire peaux sensibles beurre de karité,Monoprix,0,0,0.0
+3140100366488,Masque Avoine cheveux secs,Kéranove,1,1,0.948
+3517360011302,Shampooing huile Argan & olive,Léa nature Floressance,0,0,0.019
+1748567444460,Neutral bar soap,Neutral,0,0,0.118
+4001638099226,Weleda Arnica massageolie,Weleda,1,1,0.818
+3178041309516,Night Passion,Henkel,0,0,0.002
+3564700890752,Plaisirs sucrés crumble fruits rouges,Manava,0,0,0.0
+4015000999922,Fresh it Up! Shampoo,Henkel,0,0,0.0
+4015000911269,Cream & Oil Intensiv-Pflege-Spülung,Henkel,0,0,0.008
+4015000977579,3 Wetter Taft stylist's selection,Henkel,0,0,0.0
+4015100185782,Gliss Kur Color Schutz 2-Phasen Elixier,Henkel,0,0,0.0
+4015001007275,Spiegelglanz 24h Glanz-Treu Spülung,Henkel,0,0,0.001
+4015001007428,magic Oil Pinker Jasmin,Henkel,0,0,0.0
+4015000994569,Schauma Phyto-Coffein,Henkel,0,0,0.0
+4305615407630,Duschgel sport [3in1],Isana men,0,0,0.002
+4305615623184,milde Seife Mango exotic,Isana,0,0,0.106
+4305615623177,milde Seife Meeresluft,Isana,0,0,0.009
+4305615610436,milde Seife Blütenfest,Isana,0,0,0.057
+4010355295064,fresh Anti-Transpirant,Balea men,0,0,0.007
+3401360106994,Sébium sensitive,Bioderma,0,0,0.028
+4305615612393,Creme Gel,Isana Style 2 Create,0,0,0.0
+4015100189186,Repair gezielte Reparatur 02 Spülung,Henkel,0,0,0.0
+3489941049748,Shampooing Douche Miel Propolis,Cosmo Naturel,1,1,0.953
+4305615451329,Aroma Nail Polosh Remover blossom spa,RL de Young,0,0,0.034
+8432225096735,style masters fiber wax,revelon professional,0,0,0.0
+8710522378564,Msv dche bio abrico 200ml,Monsavon,1,1,0.862
+8001090094384,PRO-V Glatt & seidig Pflegespülung,Pantene,0,0,0.0
+7610300099838,Gliss Kur Hair Repair,Henkel,0,0,0.001
+3181730185803,Monsavon Déodorant Femme Bille Antibactérien Pierre d'Alun Lait & Fleur de Lotus 0% Alcool 50ml,Monsavon,0,0,0.011
+6132506950160,Minis savons de Marseille,Plerome,0,1,0.509
+8719189416145,Marcel's Green Soap Handzeep Sandelhout & Kardemom 250ML,Marcel's,0,0,0.067
+8719189416138,Marcel's Green Soap Lavender Rosemary Handsoap 250 ml,Marcel's,0,0,0.019
+24584791,Nagellackentferner Acetonfrei,today,0,0,0.092
+8001841212388,Pro-V VitaGlow Repair & Care Shampoo,Pantene,0,0,0.0
+9331137019216,Shimmering Skin Perfector(R) Pressed,Becca,0,0,0.0
+3401360668911,Le classique gel douche surgras visage & corps,nep,0,0,0.036
+93369473,"Fülle Shampoo, feines & dünnes Haar",Henkel,0,0,0.0
+8001841091495,Head & Shoulders 2 in 1 Classic (Derma & Care Formula),Head&Shoulders,0,0,0.0
+7318690017301,ICA Duschtvål oparfymerad,ICA,0,0,0.01
+4015100184587,"Himmlisch Lang, Langhaar Shampoo",Henkel,0,0,0.0
+8436008569799,Crema Solar Facial,Fleurymer,0,0,0.0
+3178041341400,Dentifrice bio 6 ans et +,Vademecum,1,1,0.996
+9000101229196,Syoss pure,Henkel,0,0,0.018
+4025089075233,Shampooing Brillance Orange bio & Coco,Logocos Naturkosmetik AG,1,1,0.903
+4037067200711,Flourid Zahncreme,Logocos Naturkosmetik AG,1,0,0.32
+4311501435076,Duschgel Zitronengras & Limette,elkos,0,0,0.003
+4305615610030,Hand- & Nagelbalsam Aloe Vera,Isana,0,0,0.0
+4305615407623,Duschgel herbe Frische,Isana,0,0,0.0
+4015100009590,"Anti-Transpirant Active Pearls, frischer Rosen-Duft",Henkel,0,0,0.001
+4010355568717,Gesichtspflege Ultra Sensitive,Balea Men,0,0,0.029
+0769915190373,Lactic Acid 10% + HA,The Ordinary,0,0,0.008
+0769915193954,Granactive Retinoid 5% in Squalane,The Ordinary,0,0,0.219
+4015000979634,got2b kleber spiking wax,Henkel,0,0,0.004
+3574661270524,baby extracare lotion,Johnson's,0,0,0.005
+3489940049213,Shampooing antipelliculaire  cade-sauge-rhassoul,Laboratoire Gravier,1,1,0.909
+3515450016527,Soin essentiel,BioKARITÉ,1,1,0.887
+8710464119911,Whitening Repair & Protect,GSK,0,0,0.046
+5060297001482,Classic Blend Moustache Wax,The Bluebeards Revenge,0,0,0.103
+23924055,sonnenmilch,today,0,0,0.0
+3282770037418,keracnyl,Ducray,0,0,0.008
+5765228837849,Toothpaste Aloe Vera,Urtekram,1,1,0.979
+3662217000784,Lápis contorno de olhos Bio,Avril,0,0,0.439
+0079656044966,UltraSport Faces Sunscreen Lotion UVA/UVB Broad Spectrum SPF 30,Banana Boat,0,0,0.0
+5410091747565,Shampoo - 7 Herbs - 7 Kruiden,Henkel,0,0,0.0
+3701178420016,Savon liquide parfum amande douce,Pure Olive,0,1,0.837
+5765228837931,Toothpaste Mint,Urtekram,1,1,0.593
+4061458073172,Zahncreme Spearmint,eurodont,0,0,0.002
+24193641,Sun Spray Classic,OMBIA SUN,0,0,0.0
+4010355348708,Glanz Haarkur Bio-Rohrzucker Glanzloses und sprödes Haar,alverde Naturkosmetik,1,1,0.621
+0037000537076,Head&Shoulders,Head&Shoulders,0,0,0.0
+4005900274465,Nivea Men - Fresh Active,Nivea Men,0,0,0.002
+7500435118293,Crema para peinar (fuerza y reconstrucción),Pantene,0,0,0.0
+3770013899041,Dentifrice pâte naturelle zeste citronné,endro,1,1,0.891
+8712561342612,Monsavon Anti-Transpirant Femme Spray Compressé Fleur de Coton Toute Légère 2x100ml,Monsavon,0,0,0.002
+7898496310474,Kaiak,Kaiak,0,0,0.006
+7500435114912,Pantene ProV,Pantene,0,0,0.0
+4015001005455,Sports Power-Shampoo,Henkel,0,0,0.0
+3401353688513,Photoderm Bronz SPF 50+,Bioderma,0,0,0.001
+3760091820242,SÉRUM SEV'ACTIVE,Sarmance,1,1,0.999
+7804920005175,Detox Purificante,Henkel,0,0,0.0
+8714100138649,Monsavon Anti-Transpirant Femme Spray Compressé Vanille Toute Délicate 2x100ml,Monsavon,0,0,0.001
+8710908536380,Monsavon Déodorant Femme Spray Compressé Fleur de Lotus Presque Divine 2x100ml,Monsavon,0,0,0.0
+59081531,Monsavon Déodorant Femme Spray Compressé Bergamote Très Pétillante 100ml,Monsavon,0,0,0.001
+8710522481691,Monsavon Déodorant Femme Spray Compressé Bergamote Très Pétillante 2x100ml,Monsavon,0,0,0.0
+8710447332917,Monsavon Gel Douche Mousse Légèreté Fleurie Pivoine & Freesia 200ml,Monsavon,0,0,0.0
+8712561112765,Monsavon Déodorant Femme Spray Grenade Tellement Fraîche 2x200ml,Monsavon,0,0,0.002
+3181730272565,Monsavon bar soap 4x100gr,Monsavon,0,0,0.006
+3181730213650,Monsavon Déodorant Femme Spray Fleur de Lotus Presque Divine 2x200ml,Monsavon,0,0,0.0
+4015100336764,Repair Spülung,Henkel,0,0,0.002
+8710447477014,Monsavon Gel Douche Amande Très Douce 2x300ml,Monsavon,0,0,0.0
+8710447332948,Monsavon Gel Douche Mousse Fraîcheur Agrume Pamplemousse & Jasmin 200ml,Monsavon,0,0,0.0
+8710908858567,Monsavon Déodorant Femme Bille Vanille Toute Délicate 50ml,Monsavon,0,0,0.009
+3181730213612,Monsavon Anti-Transpirant Femme Spray Fleur de Coton Toute Légère 2x200ml,Monsavon,0,0,0.002
+8710847998584,Monsavon Gel Douche Femme Concentré Vanille 100ml,Monsavon,0,0,0.13
+8710847998577,Monsavon Gel Douche Femme Concentré Fleur de Patchouli 100ml,Monsavon,0,0,0.061
+8710847998591,Monsavon Gel Douche Femme Concentré Amande 100ml,Monsavon,0,0,0.027
+8710522355169,Monsavon Au Lait Gel Douche Fleur De Patchouli 300ml Lot de 2,Au Lait,0,0,0.005
+8710447445976,Monsavon Gel Douche Fleur De Patchouli Si Précieuse 300ml,Monsavon,0,0,0.005
+8710447477557,Monsavon Gel Douche Passion Bien Fruitée 300ml Lot de 2,Au Lait,0,0,0.002
+8710447446010,Monsavon Gel Douche Vanille Toute Délicate 300ml,Monsavon,0,0,0.008
+8710447445990,Monsavon Gel Douche Passion Bien Fruitée 300ml,Monsavon,0,0,0.004
+8720181015380,Monsavon Gel Douche Certifié Bio et Vegan Au Lait d'Amande 300ml,Monsavon,1,1,0.962
+8710447491348,Monsavon au lait douche bio citron 200ml,Monsavon,1,1,0.714
+8710522754672,Monsavon Gel Douche Bio Vegan Lait Avoine Lot 2 x 300ml,Monsavon,1,1,0.97
+8710447276105,MONSAVON Anti-Transpirant Femme Spray Fleur de Coton Toute Légère 6x200ml,Monsavon,0,0,0.001
+42349327,Nivea men rasage corps,Nivea men,0,0,0.0
+4015100198133,Nature Moments - Shampoo (Marokkanisches Arganöl & Macadamiaöl),Henkel,0,0,0.0
+4015100198126,Nature Moments - Spülung (Marokkanisches Arganöl & Macadamiaöl),Henkel,0,0,0.01
+8714100146262,MONSAVON Déodorant Femme Bille Vanille Toute Délicate 2x50ml,Monsavon,0,0,0.01
+5054563053091,Parodontax Complete Protection,Gsk,0,0,0.096
+3256226758035,Fluide matifiant Extrait de Thé Vert,U Bio,1,1,0.979
+7391681038653,Curlicue cream,Maria Nila,0,0,0.0
+4033294004054,Sapone latte di cocco,neutro derma,0,0,0.0
+4305615610368,Isana cremeseife olive,Isana,0,0,0.004
+3662217001774,LAIT CORPOREL,Avril,1,1,0.997
+8436544103754,Champu estracto de cebolla Mi Rebotica,,0,0,0.003
+8430340049209,Bebé bálsamo gingival,Lacer,0,1,0.788
+8420075170088,Dentifrice Charbon,Deenthal Pro,0,0,0.01
+3770000858082,ALOE VERA,Biovit'am,1,1,0.977
+8710522355183,Monsavon Gel Douche Fleur D'oranger Si Belle 300ml Lot de 2,Monsavon,0,0,0.032
+8710447276112,Monsavon Déodorant Femme Spray Fleur de Lotus Presque Divine 6x200ml,Monsavon,0,0,0.0
+8710908431098,Monsavon Déodorant Femme Spray Anti Transpirant Lait & Fleur Cerisier Lot 6X100ML(dont 2 Offerts),Monsavon,0,0,0.005
+8710522489796,Schmidt's Déodorant Stick Signature Charbon + Magnésium 75g,Schmidt’s,0,0,0.027
+8414002070398,Champú anticaída Refrescante,NaturVital,0,0,0.0
+4010355558855,Deospray Antitranspirant Extra Dry,Balea Men,0,0,0.004
+25842739,Lingettes démaquillantes,Labell,1,1,0.987
+3593290031993,GALET DE LA MER MORTE,COSMOS NATURAL,0,1,0.865
+3489941049762,Shampoing/douche orange marjolaine,cosmo naturel,1,1,0.9
+8410436354622,Shampoo Bar Repairing,N.A.E,0,1,0.815
+4011061007934,mild shampoo,ANNEMARIE BÖRLIND,0,1,0.999
+4015100181036,Fa Men Kick Off 48h,Henkel,0,0,0.004
+4005808638802,Sensitive Shower Gel Soothing + Bamboo Extract,Nivea Men,0,0,0.004
+8718951195837,Sensitive Toothpaste with Aminfluoride,Elmex,0,0,0.002
+8710522956755,Monsavon Anti-Transpirant Femme Spray Compressé Fleur De Cerisier 2x100ml,Monsavon,0,0,0.005
+3770014398116,Dentifrices à croquer,PAOS,1,1,0.974
+7790010570633,Baby Shampoo,Johnson's,0,0,0.004
+19398226,3 Wetter taft Power Wax,Henkel,0,0,0.0
+3574661554280,Neutrogena Hydro Boost Aqua Gel Dagcrème,Neutrogena,0,0,0.0
+4015100336566,Power Shampoo for Men,Henkel,0,0,0.0
+4015100449129,Verwöhnende feste Duschpflege,Nature Box,0,1,0.957
+8017331039571,Desensibilizzante ripara smalto,Biorepair,0,0,0.001
+1074050559114,Elmex Anti-caries,Elmex,0,0,0.037
+3350033692596,Crème dépilatoire Peaux sensibles,Monoprix,0,0,0.293
+8055002864305,avena & calendula,Gala,0,0,0.417
+3770022721005,Savon solide Le Naturel - Aleyria Cosmétiques,Aleyria Cosmétiques,1,1,0.985
+8002295084033,Sapone mani Thè verde,Winni's,1,1,0.773
+4305615776903,Einfach nur Seife,Isana,0,0,0.239
+3770022721043,Savon solide Le fraicheur - Aleyria Cosmétiques,Aleyria Cosmétiques,1,1,0.995
+7611916001420,Deodorante limone,Weleda,0,0,0.441
+4000196026491,Handcreme Classic Care,Kamill,0,0,0.0
+3770022721067,Savon solide Le Provençal - Aleyria Cosmétiques,Aleyria Cosmétiques,1,1,0.992
+3770022721081,Savon solide L'agrume - Aleyria Cosmétiques,Aleyria Cosmétiques,1,1,0.99
+3770022721029,Savon solide Le Floral - Aleyria Cosmétiques,Aleyria Cosmétiques,1,1,0.99
+3770022721036,Savon solide Le floral Visage - Aleyria Cosmétiques,Aleyria Cosmétiques,1,1,0.99
+3770022721050,Savon solide Le fraicheur Visage - Aleyria Cosmétiques,Aleyria Cosmétiques,1,1,0.993
+3770022721074,Savon solide Le Provençal Visage - Aleyria Cosmétiques,Aleyria Cosmétiques,1,1,0.992
+3770022721098,Savon solide L'agrume Visage - Aleyria Cosmétiques,Aleyria Cosmétiques,1,1,0.99
+7611916160776,Crème de Douche relaxante,Weleda,0,1,0.802
+7804945001121,Simonds Baby,Simond's,0,0,0.001
+1237654876548,Pure Petroleum Jelly Clásica,Zurly,0,0,0.288
+3489940063073,Gel douche solide a l'huile d'olive bio,Cosmo naturel,1,1,0.704
+6001378053814,AquaMarine,Revlon,0,0,0.02
+2200256756586,Terra Naturi Happy Lime Flüssigseife,Terra Naturi,0,1,0.948
+2200256757026,Terra Natuti Happy Lime Flüssigseife,Müller,0,1,0.948
+3662217011759,shampooing solide saponifié à froid,avril,1,1,0.971
+3530019005385,Seatonic,Phytomer,0,0,0.206
+5059605477521,Dode Zee Shampoo Bar,De Tuinen,0,0,0.076
+4047196040775,Vaseline,Isana,0,0,0.351
+5045098705937,Bodyspray,FCUK,0,0,0.0
+5025452000601,Salt of the Earth: Effective Natural Deodorant Roll-On: Unscented,Salt of the Earth,1,0,0.165
+3182611231725,Salon de provence,Maître Augustin,1,1,0.777
+3182611231756,Salon de Provence,Maître Augustin,1,1,0.949
+3282770148282,shampooing dermo-protecteur extra-doux,Ducray,0,0,0.04
+4005900374653,Black & White Invisible Fresh,Nivea Men,0,0,0.0
+4058172702013,Summer Active Gesichtspflege,Balea Men,0,0,0.0
+3770022721104,Huile sèche fleur de Monoï,Aleyria Cosmétiques,1,1,0.636
+1237654876838,Cocoa Petroleum Jelly Clásica,Zurly,0,0,0.128
+0787790794998,Briogeo Farewell Frizz Blow Dry Perfection & Heat Protectant Crème,Briogeo,0,0,0.076
+7804920350831,Jabón Líquido Crema Humectante,Henkel,0,0,0.001
+5740500004836,Neutral shampoo,Neutral,0,0,0.156
+7805000311346,Protección Anti-Caries,Pepsodent,0,0,0.03
+3662217009411,Savon à froid corps. Au coeur de l'oasis,Avril,1,1,0.97
+4058172938740,Pflanzenölseife Bio-Verveine Normale Haut,alverde Naturkosmetik,1,1,0.982
+4000196031976,Hand & Nagelcreme,Kamill,0,0,0.0
+3616303030315,Summer Daze,Calvin Klein,0,0,0.038
+5600461407766,Toronja e Mandarina,Castelbel,0,0,0.179
+3600551069449,Le shampooing douceur,La Provençale Bio,1,1,0.935
+4058172675379,Balea Handcreme Urea 5%,dm Balea,0,0,0.003
+5055170281013,metropolitan black pour homme,fine perfurmery,0,1,0.55
+3564700718445,Shampoing extra-doux Henné feuille de cassis,Nateïs,0,0,0.0
+4058172508417,Wash Gel Fresh,Balea MEN,0,0,0.002
+3250392927189,Gel lavant corps et cheveux,Pommette,1,1,0.599
+3014260279165,DENTRIFICO NIÑO,Oral B,0,0,0.017
+3700538600501,savon,cap cosmetics,0,1,0.808
+4005808980239,Black & White Invisible,Nivea Men,0,0,0.0
+42402152,Deocreme mit Natron,Isana,0,0,0.428
+3574661659732,Recharge Douche extra douce Parfum amande douce,Le Petit Marseillais,0,0,0.009
+6931149445213,Babyclean Toallitas Húmedas,Babyclean,0,0,0.095
+8714789895536,Shampoo,Sanex,0,0,0.0
+5020535010607,Nuage Skin Tattoo Moisturiser,,0,0,0.0
+8718951463714,Desodorante Men Active Control 48h,Sanex,0,0,0.01
+0810020173413,Zinc Mineral SPF 50+,Bondi sands,0,0,0.002
+3140100394344,Shampooing anti pelliculaire aux tea tree et dandrilys,Pétrole Hahn,1,1,0.782
+3245678691496,Lingettes nettoyantes à l'huile d'olive,Cosmia Baby,0,1,0.799
+3564700840634,Crème lavante surgras,Manava,0,0,0.004
+0062600953674,Ultra Sheer Dry-Touch Sunscreen with Helioplex,Neutrogena,0,0,0.0
+5000169618813,Anti Dandruff 2 - in 1 Shampoo and Conditioner,Essential Waitrose & Partners,0,0,0.0
+8001120704504,shampoo antiforfora,vivi verde,1,0,0.349
+8414807534606,ENJUAGUE BUCAL ACCION TOTAL,KYREY,0,0,0.001
+3600522506805,elnett,loreal,0,0,0.01
+07802782,Superdrug Vitamin e intesive all over body cream,,0,0,0.0
+7500435154222,Shampoo Bambu Nutre e Cresce,Pantene,0,0,0.0
+3574661731100,Mundspülung,Listerine,0,0,0.004
+8594165007582,Olive soap,Tierra verde,0,1,0.784
+3606000537613,CeraVe Eye Repair Cream,CeraVe,0,0,0.0
+3401399371806,,bioderma,0,0,0.064
+8000036024300,Neutro Sensazioni Naturali Spray Fragranza Marina,Infasil,0,0,0.0
+8021983810051,Crema mani aloe vera,Omia,0,1,0.607
+3245678704431,Lait nettoyant,Cosmia Baby,0,0,0.002
+0381370015314,Stress Relief Lotion,Aveeno,0,0,0.01
+3760209542530,Crème solaire Lait Corps Spf 50,Parasol,0,0,0.012
+4005900534651,Nivea,,0,0,0.0
+4013718065014,,,0,0,0.004
+4305615683300,Hydro Pflege-Gel Aloe Vera,Isana,0,0,0.01
+3574661602684,Baume corps nutrition peaux très seches,LE PETIT MARSEILLAIS,0,0,0.0
+3350033199835,crème mains hydrante,Monoprix,0,0,0.0
+3574661491844,Advanced White,Listerine,0,0,0.0
+3574661617510,Total Care,Listerine,0,0,0.009
+8008970056593,Persian Dream Ritual Granatapfel & Rooibos-Tee,Lornamead,0,0,0.0
+0815195017388,Essentials Moisturizing Shower Gel,Arm & Hammer,0,0,0.001
+3600551119816,Shampoing très doux démêlant karité pur + huile de jojoba,Mixa Bébé,0,0,0.005
+0830667000101,H2Ocean,H2Ocean,0,1,0.67
+8719238020118,,,0,0,0.0
+3178041360951,Après-shampooing à l'huile d'argan,Nature Box,0,1,0.945
+8006540876480,Champú Purificante Nutri Pro-V,Pantene,0,0,0.0
+5054563158857,Sensodyne Sensitiv Extra Frisch Fluorid,GlaxoSmithKline,0,0,0.262
+3337875829007,CeraVe Retinol Serum Tegen Post-Acne Vlekjes,Cerave,0,0,0.0
+8001280022036,Classico Detergente Intimo,Felce Azzurra,0,0,0.048
+3760375980006,SQUALANE,Explain,1,0,0.121
+4001499943973,Frosch Senses aloe-vera sensitiv-dusche,Frosch,0,0,0.048
+7899706172745,Gel de Limpeza Facial CeraVe Pele Oleosa com 454g,CeraVe,0,0,0.0
+3401352018786,Bioderma Sébium Global,Bioderma,0,0,0.001
+7891010882990,Gel Creme Hidratante para Área dos Olhos Neutrogena Hydro Boost com 15g,Neutrogena,0,0,0.001
+7891010250980,Protetor Solar Facial Neutrogena Sun Fresh FPS30 40g,Neutrogena,0,0,0.0
+7891150049628,Shampoo Seda Joias da Natureza Abacate e Karité,Seda,0,0,0.0
+7896013563594,Creme de Tratamento Novex Óleo de Argan 400g,Novex,0,0,0.0
+7898639791030,Felps Men Condicionador Poker Bomba de Crescimento,Felps Men,0,0,0.0
+5020379016285,Neutrogena Oil-Free Acne Wash,Neutrogena,0,0,0.002
+0682223020135,Jack Black Pure Clean Daily Facial Cleanser,Jack Black,0,0,0.009
+7922470515323,CeraVe AM Facial Moisturizing Lotion SPF 30,CeraVe,0,0,0.0
+0885229253723,Neutrogena Hydro Boost Water Gel,Neutrogena,0,0,0.0
+0885257132847,Clinique For Men Face Scrub,Clinique,0,0,0.097
+0077326444627,,Déodorant longue durée,0,0,0.088
+0865639000353,Moisture Memory Reactivator,Curlsmith,0,1,0.607
+3538396131406,Gel douche haute tolérance mélisse bio,Coslys,1,1,0.971
+3701129801048,Photoderm bronz spf 50+,Bioderma,0,0,0.172
+8710908412691,Neutral handwash,Neutral,0,0,0.208
+8004608283591,Davines MOMO Moisturizing Shampoo,Davines,0,0,0.221
+0621732000931,Marc Anthony Repair Bond +Rescuplex,Marc Anthony,0,0,0.0
+0716237183675,GIOVANNI 2chic Ultra-Sleek Blow Out Styling Mist,GIOVANNI,0,0,0.0
+7899884203910,Salone Milano Professional 12-In-1 Leave In Hair Treatment,Salone Milano,0,0,0.0
+5060150182341,COLOR WOW Extra Strength Dream Coat,COLOR WOW,0,0,0.0
+7898567750758,Depi Roll Cera Roll-on ARGAN,Depi Roll,0,0,0.0
+7898911309021,Creme Depilatório De Pernas E Virilha Nupill,Nupill,0,0,0.0
+8021983810020,"Intimo pH 3,5",Omia,1,1,0.85
+00011209,Gel para después de Afeitar,,0,0,0.003
+00129507,Violetta lavamani delicato,Bottega Verde,0,0,0.0
+0020714236274,Clinique for Men Face Wash,Clinique,0,0,0.016
+0070501110492,Neutrogena Hydro Boost Gel-Cream Eye,Neutrogena,0,0,0.0
+00810104,Activating Day Cream,Hanzz+Heidi,0,0,0.014
+0085275710434,CeraVe Foaming Facial Cleanser,CeraVe,0,0,0.0
+8718951543553,"ANTI-CARIES - Dentifrice Protection Caries,",Elmex,0,0,0.056
+8718951546851,Dentifrice,Elmex,0,0,0.129
+8720181325380,Noire,duschdas,0,0,0.0
+8718951660588,Protect Pure Hydrating,Sanex,0,0,0.039
+0072140810849,Sensitive 3in1 Body Wash,Nivea Men,0,0,0.001
+3282770141351,Gel moussant Keracnyl,DUCRAY,0,0,0.059
+3574661575209,Masque Hydratation légèreté 4 en 1,Le Petit Marseillais,0,0,0.068
+3701129804193,Atoderm,Bioderma,0,0,0.005
+7340011429265,Sun lotion SPF30,Änglamark,0,0,0.004
+7332531073127,Brillance Hårfarge 924 Choco Couture,CONAXESS TRADE NORGE AS,0,0,0.0
+4015000702652,Brillance Hårfarge 872 Intense Red,CONAXESS TRADE NORGE AS,0,0,0.0
+4005900783097,Shower Naturally Good Honeysuckle 300 ml,Brynild AS,0,0,0.401
+5054563020338,Sensodyne Tannkrem Original 75ml,Haleon norway as,0,0,0.006
+7046110029923,Dr.Greve Intimvask Sensitive 200ml,Orkla home and personal care as,0,1,0.821
+7310610015404,Lano Dusjsåpe 250ml,Orkla home and personal care as,0,0,0.009
+6111056013082,Cadum,,0,0,0.0
+4005900631701,Nivea Sheet Mask Urban Skin Detox,BRYNILD GRUPPEN AS,0,0,0.104
+4005900639523,Nivea Eye Makeup Remover Glow Double Effect 125ml,BRYNILD GRUPPEN AS,0,0,0.006
+4005900783080,Nivea Shower Cotton Flower 300ml,BRYNILD GRUPPEN AS,0,0,0.401
+4005900191861,Nivea Sensitive Day Care 50ml,BRYNILD GRUPPEN AS,0,0,0.0
+4005900700391,Nivea Night Care Naturally Good 50ml,BRYNILD GRUPPEN AS,0,0,0.447
+3574661701240,,Le petit marseillais,0,0,0.127
+4005808406029,NIVEA Creme Soft Douchecrème,BRYNILD GRUPPEN AS,0,0,0.001
+8718951321793,déodorant natur protect à la Pierre d'alun,Sanex,0,0,0.005
+3401395376706,Eau micellaire démaquillante,Bioderma,0,0,0.048
+7340011315599,Änglamark Roll-On Unisex 50ml,KONINKLIJKE SANDERS B.V.,0,0,0.009
+7090025533099,"Moisturising Hand Wash, White Tea & Verbena 500 ml",ELLE BASIC AS,0,0,0.018
+3504105035778,Gentle cleansing gel,Mustela,0,0,0.007
+4305615934112,Duschgel Fresh,ISANA MEN,0,0,0.007
+7072463201044,Fab Dry Shampoo Brunettes 200ml,Elle basic as,0,0,0.039
+7393481004876,Håndsåpe Daisy&Timothy 400ml,Unil,0,0,0.004
+42349501,Nivea Roll-On Black & White Fresh 50ml,BRYNILD GRUPPEN AS,0,0,0.018
+4005900785862,Nivea Wipes Natural Good Cleansing Wipes 25stk,BRYNILD GRUPPEN AS,0,0,0.083
+42419648,Nivea Men Roll-On Magnesium 50ml,BRYNILD GRUPPEN AS,0,0,0.0
+3506770013006,lovea,,0,0,0.0
+3574660520132,Cool Mint Mouthwash,Listerine,0,0,0.01
+4005900491510,Nivea Deospray Men Dry Fresh 150ml,BRYNILD GRUPPEN AS,0,0,0.001
+7319470801035,Nivea Creme 75ml,BRYNILD GRUPPEN AS,0,0,0.003
+4005900784322,Nivea Body Lotion Aloe Vera 200ml,BRYNILD GRUPPEN AS,0,0,0.066
+7340011315230,Änglamark Shampoo 200ml,AROMA PLC.,0,0,0.093
+4005900134264,Nivea Day Care Cellular 50ml,BRYNILD GRUPPEN AS,0,0,0.0
+4005900346476,Nivea Men Protect & Care Shaving Gel 200ml,BRYNILD GRUPPEN AS,0,0,0.002
+4005900570925,Nivea Day Care Q10 Sensitive 50ml,BRYNILD GRUPPEN AS,0,0,0.001
+4005900100115,Nivea Double Effect Eye Makeup Remover 50ml,BRYNILD GRUPPEN AS,0,0,0.023
+5710404934102,Jan Thomas Shampoo Volume 250ml,Hosc distribution aps,0,0,0.0
+4005900777263,NIVEA Q10 Energy Recharge Anti-rimpel Nachtcrème,BRYNILD GRUPPEN AS,0,0,0.0
+7319470118263,Nivea Q10 Day & Night Cream Gavepakke,BRYNILD GRUPPEN AS,0,0,0.0
+42419631,Nivea Roll-On Magnesium 50ml,BRYNILD GRUPPEN AS,0,0,0.0
+8718951265646,Colgate Tannkrem Smiles Mix Kids 0-5år 50ml,Colgate-palmolive norge,0,0,0.1
+40067247,Nivea Rice Scrub Glow 75ml,BRYNILD GRUPPEN AS,0,0,0.0
+4005900551399,Labello Peach Shine 1 stk,Brynild AS,0,0,0.037
+4005900700339,Nivea Day Care Naturally Good 50ml,BRYNILD GRUPPEN AS,0,1,0.828
+4005900553492,Dobbeldusch Sport 500ml,BRYNILD GRUPPEN AS,0,0,0.0
+3574661404134,Total care,Listerine,0,0,0.001
+3574661480176,Figue de Provence,Le Petit Marseillais,0,0,0.046
+8718951227941,Colgate Tannkrem Total 50ml,Colgate-palmolive norge,0,0,0.005
+8714789615592,Colgate Tannkrem Whitening 75ml,Colgate-palmolive norge,0,0,0.004
+8718951312531,Colgate Tannkrem Sensation White 75ml,Colgate-palmolive norge,0,0,0.037
+8718951179790,Colgate Tannkrem Triple Action 75ml,Colgate-palmolive norge,0,0,0.008
+4005900584397,Dobbeldusch Extreme Energy Rush 250ml,BRYNILD GRUPPEN AS,0,0,0.0
+42419686,Nivea Men Roll-on Black & White Expert 50ml,BRYNILD GRUPPEN AS,0,0,0.003
+7319470058361,Nivea Moisture Shower 250ml,BRYNILD GRUPPEN AS,0,0,0.0
+4005808221929,Sensitive Aftershave Balm,Nivea Men,0,0,0.0
+8714789726250,Colgate Munnskyll Plax Grønn 500ml,Colgate-palmolive norge,0,0,0.007
+40067353,Nivea Rice Scrub Smooth 75ml,BRYNILD GRUPPEN AS,0,0,0.0
+4005900134271,Nivea Night Care Cellular 50ml,BRYNILD GRUPPEN AS,0,0,0.0
+42349754,Nivea Roll-On Dry Fresh 50ml,BRYNILD GRUPPEN AS,0,0,0.01
+42349433,Nivea Roll-On Dry Comfort 50ml,BRYNILD GRUPPEN AS,0,0,0.01
+7310181582190,Gliss Shampoo Total Repair 250ml,CONAXESS TRADE NORGE AS,0,0,0.0
+8710908843044,Classic,Zendium,0,0,0.014
+4005900551559,Labello Blackberry Shine 5.5ml,BRYNILD GRUPPEN AS,0,0,0.002
+4005900855282,Nivea Cleansing Magic Bar Radiance 75g,BRYNILD GRUPPEN AS,0,1,0.996
+4005900109309,Nivea Men Body & Face Cream 150ml,BRYNILD GRUPPEN AS,0,0,0.0
+4005900417794,Nivea Day Care Q10 Plus C 50ml,BRYNILD GRUPPEN AS,0,0,0.0
+4005900878120,Nivea Men Sensitive Facial Balm 150ml,BRYNILD GRUPPEN AS,0,0,0.001
+4005900570956,Nivea Night Care Q10 Sensitive 50ml,BRYNILD GRUPPEN AS,0,0,0.0
+40063942,Nivea Roll-On Fresh Flower 50ml,BRYNILD GRUPPEN AS,0,0,0.002
+4005900283252,NIVEA Sensitive Cleansing Wipes 25 stk,Brynild AS,0,0,0.0
+9310263001616,keri moisturising lotion,,0,0,0.0
+0625336616437,Hard Gel,Chatters,0,0,0.0
+7350127612529,,,0,0,0.041
+5045092556153,moisturiser,,0,0,0.0
+0310158888819,Sensodyne Fresh Mint Toothpaste for Sensitive Teeth,Sensodyne,0,0,0.077
+5410076881840,Champú PANTENE,ttyw,0,0,0.0
+7072463113118,Natur Basic Handwash Wild Eucalyptus 500ml,ELLE BASIC AS,0,0,0.035
+7046110011355,Jordan Vaskerull 77stk Refill,Orkla home and personal care as,0,0,0.113
+3331849015755,Fleur de cerisier,Les Petits Plaisirs,0,0,0.006
+7046110023099,Lano Dusjsåpe 250ml Refill,Orkla home and personal care as,0,0,0.025
+7072463113170,"Refill Hand Wash White Tea & Verbena 500ml, 1 stk",ELLE BASIC AS,0,0,0.018
+8720181331244,dusch das &quot;Sport&quot;,duschdas,0,0,0.0
+8004608236580,Purifying Shampoo,davines,0,0,0.051
+3337875795456,SA Smoothing Cleanser,CeraVe,0,0,0.0
+4068134031402,Feuchtes Toilettenpapier,alouette,0,1,0.645
+5045273864220,tresspass strawberry lip balm,,0,0,0.007
+5054563101211,Sensodyne Tannkrem Clean&Fresh 75ml,Haleon norway as,0,0,0.021
+5054563032119,Sensodyne Tannkrem Rapid Relief 75ml,Haleon norway as,0,0,0.058
+5060489794161,Brightening toner,Byoma,0,0,0.029
+0062600650870,Aveeno Daily Moisturizing Cream,Aveeno,0,0,0.007
+3256228666741,Savon végétal ressourçant - pêche & jasmin bio,U bio,1,1,0.972
+3574661411545,Aveeno Dermexa Daily Emollient Cream,Aveeno,0,0,0.002
+3250391444175,Shampooing très doux,Labell,0,0,0.0
+3517360025750,"Reactive CONTROL, Crème miraculeuse HAUTE TOLERANCE",EAU THERMALE JONZAC,1,1,0.98
+5907377528067,hardcore intensive MAXREPAIR,evrēe,0,0,0.0
+5901887016601,YEGO żel pod prysznic i szampon do włosów wetiwer,Ziaja,0,0,0.003
+4056489182092,Mouchoirs quadruple épaisseur doux et résistant,Floralys,0,1,0.691
+4311501066409,Flüssigseife,elkos,0,0,0.007
+3504105036751,Spray solaire,Mustela,0,0,0.003
+7313272135275,Sollotion SPF 30,apoteket,0,0,0.0
+0028367840855,"Olive Oil Soap - Bar, Unscented.",Kiss My Face,0,1,0.809
+9005800280707,Anti-Perspirant Deodorant,NIVEA MEN,0,0,0.001
+4005808247202,Soft Caring Lotion 250 ml,Brynild AS,0,0,0.0
+7313272135244,Solcreme ansikte SPF 30,Apoteket,0,0,0.0
+7313272077629,Aloe Vera gel,apoteket,0,0,0.043
+8720181418389,Black Vanilla,Unilever Nederland B.V.,0,0,0.003
+0646670548888,Shampoo,Real Root by Sprouts,0,0,0.016
+8480012006559,Unnia Dermo,Ifa,0,0,0.0
+0667554738485,INTO THE NIGHT,Bath & BodyWorks,0,0,0.26
+0672047001175,Conditioning Hand Soap,Ginger Lily Farms,0,0,0.001
+3564700638866,Lait de douche hydratant Pêche de vigne,Manava,0,0,0.006
+7332531080460,Live Silver Shampoo 200ml,CONAXESS TRADE NORGE AS,0,0,0.0
+7340011490197,Coop Men Hair & Body Shampoo 250ml,ALLISON A/S,0,0,0.0
+7332531075015,Gliss Shampoo Supreme Length 250ml,CONAXESS TRADE NORGE AS,0,0,0.0
+5012583209065,Gliss Shampoo Color Perfecto 250ml,CONAXESS TRADE NORGE AS,0,0,0.0
+4084500943827,Pantene Pro-V Shampoo,Pantene,0,0,0.0
+9315937063273,cutan skin moisturizer,,0,0,0.008
+3574669908030,Johnson's,johnsons,0,0,0.002
+5060176671355,Gel d'aloé véra,Dr Organic,0,1,0.774
+5410091719760,Fa Relaxing mystic passionflower,Henkel,0,0,0.0
+8718951399747,Palmolive Håndsåpe Hygiene&Fresh 300ml,Colgate-palmolive norge,0,0,0.0
+7332531019330,Got2b Volumizing Styling Powder,Henkel,0,1,0.542
+8718951128088,Palmolive Roll-On Happyful 50ml,Colgate-palmolive norge,0,0,0.136
+7332531063418,GLUED Blasting Freeze Hairspray,Henkel,0,0,0.189
+0819156020240,hello antiplaque and whitening,,0,0,0.026
+7340011470243,"Sun Face Cream, SPF50",Änglamark,0,0,0.024
+0840044710134,Eos sparkling  sugar plum and pomegranate punch,,0,0,0.172
+0312547306713,Listerine Total Care Zero Alcohol,Listerine,0,0,0.002
+0840044700388,eos,,0,1,0.903
+0639844149004,Coconut Oil Gentile Castile Fragrance Free Soap,Kirk's Natural,0,1,0.855
+7332531063692,GOT2B Fresh It Up 100ml,CONAXESS TRADE NORGE AS,0,0,0.002
+8718951366718,Palmolive Roll-On Sport 50ml,Colgate-palmolive norge,0,0,0.016
+8718951299146,Palmolive Dusj Naturals Pure Mix 250ml,Colgate-palmolive norge,0,0,0.011
+3574660583342,J&J CLNSE WIPE 3IN1,Johnson's,0,0,0.001
+7332531094177,Blonde Blondering Ultra Lightener L1+,CONAXESS TRADE NORGE AS,0,0,0.0
+8718951456808,Palmolive Dusjsåpe Naturals Mix 250ml,Colgate-palmolive norge,0,0,0.0
+7332531066327,Root Retoucher Dark Blonde,CONAXESS TRADE NORGE AS,0,0,0.0
+7332531073516,Live Urban Metallics U67 Blue Mercury,CONAXESS TRADE NORGE AS,0,0,0.0
+7332531082846,Live Urban Metallics U72 Dusty Silver,CONAXESS TRADE NORGE AS,0,0,0.0
+7332531093484,Blonde Blondering Ultra Lightener L1++,CONAXESS TRADE NORGE AS,0,0,0.0
+7332531075053,Gliss Balsam Supreme Length 200ml,CONAXESS TRADE NORGE AS,0,0,0.003
+8718951185784,Palmolive Håndsåpe Hygiene Plus Sensitiv 300ml,Colgate-palmolive norge,0,0,0.0
+7332531093880,Blonde Blondering 10.1,CONAXESS TRADE NORGE AS,0,0,0.0
+7332531096539,Root Retoucher Light Blonde,CONAXESS TRADE NORGE AS,0,0,0.0
+7332531093965,Blonde Blondering Spray S1 125ml,CONAXESS TRADE NORGE AS,0,0,0.0
+7319470058385,"Shower Gel Fresh Mix Assortert Variant, 250 ml",Brynild AS,0,0,0.0
+7332531071055,Live Urban Metallics U71 Metallic Silver,CONAXESS TRADE NORGE AS,0,0,0.0
+7332531093569,Blonde Blondering Highlights M1,CONAXESS TRADE NORGE AS,0,0,0.0
+7332531093248,Blonde Blondering Highlights M3+,CONAXESS TRADE NORGE AS,0,0,0.0
+7332531070737,Live Urban Metallics U69 Amethyst Chrome,CONAXESS TRADE NORGE AS,0,0,0.0
+7332531066365,Root Retoucher Dark Brown,CONAXESS TRADE NORGE AS,0,0,0.001
+8718951456860,Palmolive Dusjsåpe Wellness Mix,Colgate-palmolive norge,0,0,0.0
+7332531066280,Root Retoucher Middle Brown,CONAXESS TRADE NORGE AS,0,0,0.0
+0077326453575,Tom's of Maine,,0,0,0.334
+8009810007744,Saponetta vegetale tea tree,White Castle,0,0,0.054
+8009810010751,Saponetta vegetale specifico ascelle e piedi,White castle,0,0,0.025
+8000137015627,Shampoo anti-caduta,equilibra,0,0,0.001
+8901030970368,Pepsodent Germi Check Toothpaste,Pepsodent,0,0,0.118
+3574661629919,"Le solide Lavant Revitalisant 3en1 Corps, Cheveux, Cheveux pomme-olivier",Le Petit Marseillais,0,0,0.124
+07266593,Protector solar,Bioderma,0,0,0.002
+9000101290875,Schwarzkopf Got2b Glued Blasting Freeze Hairspray,Henkel,0,0,0.122
+8721073626417,Masque pour visage,Avogood Time With Me,0,0,0.0
+8051739581140,Bagno doccia Profumato,Aquaviva,0,0,0.192
+7340191139626,"Water Resistant Sun Spray, SPF30",Änglamark,0,0,0.291
+5054563256522,Sensodyne Expert Protect Rapide Action,Sensodyne,0,0,0.058
+7313272150896,Solcreme ansikte SPF 50,Apoteket,0,0,0.0
+7340011429234,"Änglamark Sun Lotion, SPF15",Änglamark,0,0,0.004
+7032069717455,Badesåpe for barn,Rema 1000,0,1,0.58
+7032069717448,Sinksalve,Rema 1000,0,0,0.057
+3760162120899,Gel douche - surgras,Cosm'ethik,0,0,0.013
+7891150090231,Triple+,Pepsodent,0,0,0.022
+76169991,Protect SF30,Sun Look,0,0,0.0
+3760100193619,après shampoing  evoluderm,,0,0,0.009
+00952293,lisewaitier,lise waitier,0,0,0.002
+8719325558869,Marcel’s Green Soap handzeep Sandelhout & Kardemom Navulling - 500ml,Marcel’s,0,0,0.067
+4068883000261,Dentifrice protection complète,Vademecum,1,1,0.587
+3538396153200,Shampooing douche Céréales bio Corps et cheveux,Coslys,1,1,0.982
+5029053580258,Sensitive wet toilet wipes,Scottex,0,0,0.081
+8698885691646,Aloe Vera Diş Macunu,Spumy,0,0,0.203
+4066447710618,FRESH AFTER SHAVE,Balea MEN,0,0,0.002
+4067796183887,FRESH DEODORANT,Balea MEN,0,0,0.024
+7313272139747,Sollotion SPF 30,apoteket,0,0,0.0
+7313272150940,Solspray SPF 30,apoteket,0,0,0.0
+7899852025551,SHAMPOO VULT CABELOS ONDULADOS FRASCO,Vult,0,0,0.0
+8997241850766,Bright Booster UV Barrier Sunscreen SPF 50 PA++++,OMG,0,0,0.0
+3662217018864,Déodorant baume,Avril,1,0,0.14
+6931149446654,Toallitas Húmedas,Luxury,0,0,0.381
+5060307390148,MAN CAVE Lemon & Oak SHOWER GEL,,0,0,0.02
+4067796007855,18H High Coverage Concealer,Trend it up,0,0,0.0
+3141380052900,Douche Huile Précieuse Extra Nourrissante,Cottage,0,0,0.216
+9000101668773,Nature Box For Men 3in1 Anti-dandruff,Schwarzkopf,0,1,0.802
+8720289261542,Lip Balm Coconut,Sence,0,0,0.0
+4305615765082,After Shave Balsam Ultra Sensitiv,ISANA,0,0,0.001
+8721073610492,Kokos Lippenpflege Stift,Sence,0,0,0.0
+3468080410916,Soin home végétal,,0,0,0.015
+7775005001729,Jabón Líquido Antibacterial Floral,Supremo,0,0,0.007
+7611916153600,Activerende douchegel active fresh,Weleda,0,0,0.491
+5060879493414,Skin Science Refillable Antiperspirant Deodorant White Orris + Cherry,INEOS,0,0,0.002
+5060879493353,Skin Science Antiperspirant Deodorant Mist Geranium + Mint,INEOS,0,0,0.001
+5740500004898,Anti-Dandruff Shampoo,Neutral,0,0,0.008
+8004608256632,Champú Well-being,davines,0,0,0.023
+0381519188787,Miracle Curls with Coconut and Jojoba Oil and Paraben Free Shampoo,Aussie,0,0,0.0
+0381519188794,Miracle Curls with Coconut and Jojoba Oil and Paraben Free Conditioner,Aussie,0,0,0.178
+2200302343456,Sonnencreme 50+,Müller,0,0,0.0
+3504105034702,,,0,0,0.098
+3504105034412,Soin Croûtes de lait,Mustela,0,0,0.069
+3401381507565,Bioderma sensibio gel moussant 200ml,,0,0,0.008
+4311501630808,Elkos Body Handkonzentrat Sofort-Hilfe,Elkos,0,0,0.365
+4067796217735,Antitranspirant Deostick Extra Dry,Balea MEN,0,0,0.0
+5902719419027,Szampon wzmocnienie,Tołpa,0,0,0.064
+7350087734637,Moisturizing base cream body,Apo base,0,0,0.001
+4068883000230,Vademecum Blancheur & plantes,Henkel,0,0,0.076
+3574661655611,Anti Pickel Peeling Cleanser AHA/PHA/BHA,Neutrogena,0,0,0.026
+3045204802859,SUN Spray Protecteur Hydratation SPF50,Ecran,0,0,0.0
+3538396116106,Shampooing volume protéine de riz et amarante,Coslys,1,1,0.975
+26023281,Savon de toilette à l'huile d'olive,Biocura,0,0,0.354
+26023458,Soin hydratant,Biocura,0,0,0.0
+0070501113424,Hydro Boost Water Gel Lotion SPF 50,Neutrogena,0,0,0.0
+0312547427951,Cool Mint Antiseptic,Listerine,0,0,0.315
+0381370036029,aveeno body lotion,Aveeno,0,0,0.023
+0769915190588,www.THEORDINARY.COM,The Ordinary,0,0,0.005
+0769915190670,Caffeine Solution 5% + EGCG,The Ordinary,0,0,0.0
+0769915190977,The Ordinary Glycolic Acid 7% Toning Solution (Solução tonificante de ácido glicólico 7%),The Ordinary,0,0,0.004
+2000000151466,Dapop Corrector,Dapop,0,0,0.054
+3050070004047,Scorpio Déodorant parfumé,henkel,0,0,0.0
+3059944117142,Intima Gel apaisant de toilette intime à l'Aloé vera,Reckitt Benckiser,0,1,0.691
+3140100403763,Shampooing antipelliculaire,Nat&Nove,1,1,0.792
+3141380054911,Douche huile précieuse à l'huile d'argan,Cottage,0,0,0.084
+3141380054928,Douche Huile Précieuse Extra Nourrissante,Cottage,0,0,0.091
+3178040650282,Fa Men Kick Off Douchegel & Shampoo,Fa,0,0,0.0
+3178040661950,Bio Protection Complète,henkel,1,0,0.212
+3178040687042,Laque Tenue flexible,Henkel,0,0,0.383
+3250390448730,Eau démaquillante,Labell,0,0,0.001
+3250391831982,Barbe à papa douche gourmande,Labell,0,0,0.001
+3251241003016,Shampooing Douceur & Réparation,Le Petit Marseillais,0,0,0.385
+3256223379653,Lait de douche hydratant aux extraits naturels de chèvrefeuille et de bambou,By U,0,0,0.0
+3282770037500,Keracnyl Foaming Gel,Ducray,0,0,0.011
+3283950911184,Lait corps beurre de karité géranium,Cattier,1,1,0.801
+3337875597395,Hydraterende Melk,CeraVe,0,0,0.001
+3337875773430,CeraVe Hydraterende Schuimende Reinigingsolie,CeraVe,0,0,0.007
+3367729021028,48H Day Control Protection,Biotherm Homme,0,0,0.015
+3401347938594,Parodontax Dentifrice quotidien au fluor,GlaxoSmithKline,0,1,0.591
+3401573670053,Créaline TS H2O Solution micellaire,Bioderma,0,0,0.048
+3401575645851,Solution micellaire nettoyante-purifiante,Bioderma,0,0,0.057
+3401578653709,Sébium gel mousse,Bioderma,0,0,0.001
+3468080081116,Corine de Farme Liniment Calcium Balsem,Corine,1,1,0.985
+3517360001419,REhydrate Lait corps réhydratant,Eau thermale Jonzac,1,1,0.975
+3538394000179,Dentifrice dents sensibles Menthe & propolis,Coslys,1,1,0.981
+3538396704105,Dentifrice charbon végétal,Coslys,1,1,0.887
+3538396705102,Dentifrice Fraîcheur Menthol Coslys,Coslys,1,1,0.98
+3574660183818,Crème pieds très secs et abîmés,Neutrogena,0,0,0.0
+3574660325492,Skin Relief moisturising lotion,Aveeno,0,0,0.022
+3574660532739,Deep Moisture - Sofort einziehende Feuchtigkeitscreme,Neutrogena,0,0,0.003
+3574660724370,Abricot et noisette douche et bain crème extra doux,Le Petit Marseillais,0,0,0.001
+3574661151250,Douche et bain hypoallergénique sans savon Sève d'aloe vera & Fleur de pommier,Le Petit Marseillais,0,0,0.348
+3574661153803,Lait Hydratant Hypoallergenique Sève d'Aloe Vera & Calendula,Le Petit Marseillais,0,0,0.0
+3574661183343,Lait de vanille Douche et bain moussant extra doux,Le Petit Marseillais,0,1,0.794
+3574661183473,Lait de coton Gel mousse extra doux,Le Petit Marseillais,0,1,0.698
+3574661186269,Shampooing Brillance & Nutrition Vinaigre aux 3 fleurs et lait d'Amande,Le Petit Marseillais,0,0,0.363
+3574661226491,Total Care,Listerine,0,0,0.011
+3574661254067,Lait corps nutrition intense Nordic Berry,Neutrogena,0,0,0.0
+3574661320700,Neutrogena Hydro Boost Aqua Reinigingsgel,Neutrogena,0,0,0.0
+3574661574554,Shampooing crème nutrition miel de Provence et karité bio,Le Petit Marseillais,0,0,0.017
+3574661700526,Crème de douche Extra Douce Lait de Vanille Bio,Le Petit Marseillais,0,0,0.035
+3596202092938,Iris Crème de jour hydratante,Weleda,1,1,0.649
+3596202607170,Pâte dentifrice au Calendula goût Anis,Weleda,1,1,0.917
+3596206332825,Crème au calendula,Weleda,1,1,0.732
+3596206351567,Pâte dentifrice saline,Weleda,1,1,0.854
+3701129800096,bioderma,bioderma,0,0,0.0
+3770013899034,déodorant bergamote,endro,1,1,0.753
+4000196020956,Hand & Nagelcreme,Kamill,0,0,0.0
+4001638075114,Weleda Kids Douche & Shampooing 2-en-1 Orange fruitée - 150 ml,Weleda,1,1,0.632
+4005900243553,Nivea men Protect & Care,Nivea Men,0,0,0.018
+4009175931276,Afwasmiddel: Green Lemon,Frosch,0,0,0.002
+4015001004717,Schauma Keratin Kraft Aufbau Spülung,Henkel,0,0,0.002
+4015100292374,"Anti-Schuppen Intensiv Shampoo (x3, mit Zink-Pyrithion)",Henkel,0,0,0.0
+4015100292411,7-Kräuter Shampoo,Henkel,0,0,0.0
+4104260041714,Frotee Trockenshampoo Fresh,Swiss o-par,0,0,0.042
+4305615550534,Feuchte Toilettentücher Sensitiv Classic,alouette,0,1,0.539
+4305615566184,Shampoo sensitiv,isana,0,0,0.0
+4305615573915,Mundspülung extra weiss,Dirk Rossmann GmbH,0,0,0.031
+4305615609997,Intensiv Handcreme Urea,Isana,0,0,0.0
+4305615630076,"Haarspray Color Glanz, 4 extra starker Halt",Dirk Rossmann GmbH,0,0,0.0
+5000347054303,Extra Fresh Daily Mouthwash Fresh Mint,Aquafresh,0,0,0.054
+7790010570626,Baby Shampoo,Johnson's,0,0,0.073
+7891010882983,Neutrogena Hydro Boost Water Gel,Neutrogena,0,0,0.0
+8000137010929,"Aloe, detersione naturale - sapone 100% vegetale",equilibra,0,1,0.958
+8017331060735,colluttorio ad alta densità protezione gengive,Biorepair,0,0,0.0
+8410436208611,Mango Classic,henkel,0,0,0.001
+8710444217408,Suncare,Zenova,0,0,0.0
+8710447446027,Monsavon Gel Douche Fleur d'oranger Si Belle 300ml,Monsavon,0,0,0.005
+8711700965002,MONSAVON Déodorant Femme Spray Grenade Tellement Fraîche 200ml,Monsavon,0,0,0.006
+8714789828558,Men Stress Response 48H,Sanex,0,0,0.175
+8714789913919,Dermo Protector,Colgate-Palmolive Nederland B.V.,0,0,0.009
+8718481351000,Gel 92 % Aloe vera,Betty's nature,0,0,0.0
+8700216250641,Harmonie Protect & Care,Pampers,0,0,0.07
+3600542534314,BB Crème Classique Claire,Garnier SkinActive,0,0,0.013
+8720964894164,Sweet Lollipop Face Sheet Mask,Sence,0,0,0.0
+3564700890714,Plaisir raffiné,Manava,0,0,0.0
+4005808802555,Nivea Men Body Lotion,Nivea Men,0,0,0.0
+3564700992937,Gel douche gommant au savoir noir,Manava,0,0,0.006
+42269663,Creme Gesicht - Körper - Hände,Nivea Men,0,0,0.0
+4987176230188,Collagen Miracle Mask,Pantene,0,0,0.001
+4987176230195,Pantene Biotin Miracle Mask 250mL,Pantene,0,0,0.0
+4987176232533,Pantene Keratin Daily Intensive Conditioner 600mL,Pantene,0,0,0.001
+4987176232540,Pantene Keratin Silicone-Free Shampoo 650mL,Pantene,0,0,0.0
+4987176232564,Pantene Collagen Silicone-Free Shampoo 650mL,Pantene,0,0,0.0
+4987176232588,Pantene Biotin Moisture Renewal Silicone Free Shampoo 650mL,Pantene,0,0,0.0
+9342746001677,Thanks To Nature Nourish Sweet Almond Shower Oil 250mL,Thanks To Nature,0,0,0.0
+9342746006313,Thanks To Nature Creamy Body Wash Sweet Almond & Vanilla 500mL,Thanks To Nature,0,0,0.001
+9342746009734,Jack The Barber Shower Gel Whisky & Spice 1L,Jack The Barber,0,0,0.0
+9342746009758,Jack The Barber Clay Spray Liquid Styler Strong Hold 150mL,Jack The Barber,0,0,0.0
+9310059200681,Listerine Medium Mouthwash Coolmint 500mL,Listerine,0,0,0.037
+8850007818168,Listerine Berry Mint Mouthwash 500mL,Listerine,0,0,0.002
+9300607090574,Listerine Zero Alcohol Antibacterial Mouthwash Less Intense Taste 500mL,Listerine,0,0,0.004
+9300607091267,Listerine Freshburst Zero Mouthwash 500mL,Listerine,0,0,0.002
+9348918003692,Beach Road Naturals Organic Coconut Oil & Lime Natural Body Wash 1L,Beach Road Naturals,0,0,0.09
+9348918004507,Beach Rd Naturals Body Wash Mango & Pomegranate 1L,Beach Rd Naturals,0,1,0.585
+9421035736695,Dosetheory Lush Growth Shampoo 330mL,Dosetheory,0,1,0.668
+9421035736756,Dosetheory Lush Growth Conditioner 330mL,Dosetheory,0,0,0.347
+9421035736732,Dosetheory Ultra Gloss Conditioner 330mL,Dosetheory,0,1,0.606
+9421035736763,Dosetheory Moisture Infuse Conditioner 330mL,Dosetheory,0,0,0.039
+9421035736701,Dosetheory Moisture Infuse Shampoo 330mL,Dosetheory,0,0,0.087
+9421035736671,Dosetheory Ultra Gloss Shampoo 330mL,Dosetheory,0,1,0.695
+9310059050217,Listerine Freshburst Antibacterial Mouthwash 500mL,Listerine,0,0,0.022
+3504105035808,No rinse Cleansing Water,Mustela,0,0,0.005
+3567730300130,Bio Capilargil Specific Shampooing Argile et Extraits végétaux Anti-chute,Dermaclay,1,1,0.915
+5060194390269,Pure Rose Geranium Soap Bar,Little Soap Company,0,1,0.962
+5060194392782,"Naturals Signature Scent Edit Lime, Basil & Mandarin Soap Bar",Little Soap Company,0,0,0.006
+5060194392799,Naturals Signature Scent Edit Pink Pepper & Lychee Soap Bar,Little Soap Company,0,0,0.076
+3787876203137,Safe to Flush Moist Tissues,Natracare,1,1,0.98
+8718951247024,Déodorant protection 48h,Sanex,0,0,0.006
+5901887022787,masło kakaowe mleczko do ciała,Ziaja,0,0,0.012
+5905699596009,Mydło rumiankowe do ciała i włosów,Korzenie,0,1,0.907
+5903900967884,galaretka do mycia twarzy 3 enzymy,tołpa,0,0,0.015
+4047196046906,,Isana,0,0,0.066
+7310610023171,Dr Greve Mann 2i1 Hår & Kropp 250ml,Dr. Greve,0,0,0.023
+5063089996287,Muscle Ease Bath Soak,Asda,0,0,0.0
+4305615716237,,Isana,0,0,0.421
+5901887032915,,ziaja,0,0,0.0
+5900116064499,,AA,0,0,0.012
+3504105039899,Crème Relipidante,Mustela,0,1,0.895
+4070765021059,Duschgel Ocean Ride 3in1,BaleaMen,0,0,0.003
+2514010044087,Strengthening Solid Conditioner Rice Water Protein,kit·sch,0,1,0.651
+4016369461334,,,0,0,0.034
+8719325558272,Marcel’s Green Soap Mimosa & Blackcurrant Shower Gel,Marcel's Green Soap,0,0,0.002
+4005900808707,NIVEA Verzorgende Handcrème,,0,0,0.01
+8710464116446,Original,Haleon,0,0,0.002
+5054781992219,Sensitive Soap Bar,Asda,0,0,0.217
+8720254337258,Marcel's Green Soap Shower gel argan oudh refill,Marcel's Green Soap,0,0,0.014
+0639844100081,Kirk's Coco Castile Soap,Kirk's Natural,0,1,0.679
+8719325558838,Marcel's Green Soap Handzeep orange & jasmin navulling,Marcel's Green Soap,0,0,0.013
+8720254337463,Marcel's Green Soap Wasverzachter vanilla & cotton,Marcel's Green Soap,0,0,0.039
+8719325558258,Marcel’s Green Soap Vanille & Cherry Blossom Shower Gel,Marcel's Green Soap,0,0,0.0
+8718951737259,Dentifricio ripara smalto,elmex,0,0,0.019
+0022400393612,TRESemmé,,0,0,0.0
+3337875952866,Skin Renewing Eye Cream,CeraVe,0,0,0.0
+8700216666367,Sensitivy Protection,oral b,0,0,0.093
+5016912212870,NATURAL TOOTHPASTE FENNEL FLUORIDE FREE,KINGFISHER,0,1,0.533
+29939381,Cetaphil ultra gentle body wash,,0,0,0.005
+7032069101247,Håndsåpe Harmoni mild fuktighetsbevarende,REMA 1000,0,0,0.03
+5900116091990,Face it!,AA,0,0,0.0
+7310181574171,Brillance Hårfarge 842 Cashmere Red,CONAXESS TRADE NORGE AS,0,0,0.0
+7310181585399,Brillance Hårfarge 883 Blackbrown,CONAXESS TRADE NORGE AS,0,0,0.0
+4015000240369,Brillance Hårfarge 890 Black,CONAXESS TRADE NORGE AS,0,0,0.0
+7310181574133,Brillance Hårfarge 891 Blue Black,CONAXESS TRADE NORGE AS,0,0,0.0
+4015000240154,Brillance Hårfarge 880 Dark Brown,CONAXESS TRADE NORGE AS,0,0,0.0
+4015000240079,Brillance Hårfarge 862 Natural Brown,CONAXESS TRADE NORGE AS,0,0,0.0
+0011509041388,Touch of Gray,Just For Men,0,0,0.081
+8436589810570,Melatonin drops,ZENement,0,1,0.618
+4007965133800,Mundspülung,meridol,0,0,0.377
+8901571013388,Fresh Mint,Sensodyne,0,0,0.09
+8809416471655,Two in One Poreless Power Liquid,COSRX,0,0,0.0
+7899572802289,Rapunzel - Tratamiento para cabello en spray de crecimiento,Lola from Rio,0,0,0.017
+8720181532467,Hand Wash,Neutral,0,0,0.142
+8720181220470,Hand Wash,Neutral,0,0,0.208
+4068134176257,Coco Lagoon Cremeseife Nachfüllbeutel,Isana,0,0,0.022
+5901887026075,fit mango,ziaja,0,0,0.0
+3760195122235,Déodorant baume peaux sensibles,Aqui d’aïa,0,0,0.16
+4070765002447,Gesichtsserum Hydro,Balea MEN,0,0,0.0
+4070765015294,"Rasiergel Sensitive, Reisegröße",Balea MEN,0,0,0.002
+4070765108323,Haarspray Extreme Power,Balea MEN,0,0,0.012
+4066447854947,Nosestrips Clear Up,Balea MEN,0,0,0.001
+4070765003802,Gesichtscreme Sensitive,Balea MEN,0,0,0.0
+4066447979985,Anti Pickel Patches Clear Up Hydrokolloid,Balea MEN,0,0,0.109
+4067796217759,Antitranspirant Deospray Ultimate Dry,Balea MEN,0,0,0.001
+4070765014723,"Antitranspirant Deospray Fresh, Reisegröße",Balea MEN,0,0,0.005
+4066447970111,Gesichtscreme Energy Vitamin C,Balea MEN,0,0,0.0
+4070765062700,Haargel Water,Balea MEN,0,0,0.0
+4070765014600,Festes Duschgel Fresh 3in1,Balea MEN,0,0,0.0
+4070765015416,After Shave Balsam Energy,Balea MEN,0,0,0.0
+4070765015270,Rasierschaum Sensitive,Balea MEN,0,0,0.004
+4070765015157,Deospray Dark Elegance,Balea MEN,0,0,0.0
+4070765015751,Gesichtsmaske Creme-Gel Hydro (2x8 ml),Balea MEN,0,0,0.0
+4070765015164,Antitranspirant Deospray Extra Dry,Balea MEN,0,0,0.009
+4070765014730,Rasiergel Fresh,Balea MEN,0,0,0.0
+4070765003765,Gesichtscreme Fresh Hyaluron Hydrogel,Balea MEN,0,0,0.0
+4066447993561,Antitranspirant Deo Roll-on Fresh,Balea MEN,0,0,0.0
+4066447983951,Shampoo Power Effect Coffein,Balea MEN,0,0,0.0
+4066447983975,Haar-Tonic Power Effect Coffein Boost,Balea MEN,0,0,0.0
+4067796218329,"Haargel Maximum Power, Reisegröße",Balea MEN,0,0,0.0
+4066447993530,Shower Gel Active Carbon 3in1,Balea MEN,0,0,0.0
+4070765012880,Waschgel Clear up Active Carbon,Balea MEN,0,0,0.004
+4070765015300,After Shave Balsam Ultra Sensitive,Balea MEN,0,0,0.0
+4066447993516,"Duschgel Fresh 3in1, Reisegröße",Balea MEN,0,0,0.001
+4070765014747,Rasierschaum Fresh,Balea MEN,0,0,0.002
+4070765015188,Antitranspirant Deospray Invisible Dry,Balea MEN,0,0,0.004
+4070765015737,Gesichtsmaske Q10 Anti-Falten (2x8 ml),Balea MEN,0,0,0.0
+4066447854824,Augenpads Hydrogel (1 Paar),Balea MEN,0,0,0.0
+4066447855333,Pomade Haar & Bart 2in1,Balea MEN,0,0,0.008
+4070765003741,Augencreme Lift Effect,Balea MEN,0,0,0.062
+0957380000000,Body Mineral Toothpaste,purehaven,0,0,0.074
+4070765015287,Rasiercreme Sensitive,Balea MEN,0,0,0.0
+4066447953978,Bartpflege Gel 2in1,Balea MEN,0,0,0.0
+4070765015317,Rasierschaum Ultra Sensitive,Balea MEN,0,0,0.072
+4070765057447,Waschgel Sensitive,Balea MEN,0,0,0.112
+4070765012835,Augen Roll-on Energy,Balea MEN,0,0,0.0
+4066447953954,Bartöl,Balea MEN,0,0,0.413
+4066447993547,Duschgel Ice Feeling 4in1,Balea MEN,0,0,0.0
+4066447953992,Gesichtscreme Ultra Sensitive,Balea MEN,0,0,0.0
+4066447983937,Shampoo Anti-Schuppen Power Effect,Balea MEN,0,0,0.0
+4066447855173,Nachtcreme Q10,Balea MEN,0,0,0.0
+4067796218633,Haargel Invisible Look,Balea MEN,0,0,0.0
+4070765015133,Deospray Golden Intense,Balea MEN,0,0,0.0
+4066447855029,Augenpads Hydro (6 Paar),Balea MEN,0,0,0.008
+4066447993608,Shampoo Sensitive,Balea MEN,0,0,0.0
+4066447993592,Shampoo Fresh,Balea MEN,0,0,0.0
+4070765015256,After Shave Balsam Sensitive,Balea MEN,0,0,0.0
+4070765012958,Bart Shampoo,Balea MEN,0,0,0.038
+4070765003826,Peelinggel Hydro 3in1,Balea MEN,0,0,0.002
+4066447855135,Gesichtscreme Lift Effect LSF 30,Balea MEN,0,0,0.0
+4070765003840,Feuchtigkeitscreme Hydro,Balea MEN,0,0,0.0
+4066447946413,Waschgel Hydro,Balea MEN,0,0,0.001
+4067796180305,Serum Sensitive,Balea MEN,0,0,0.001
+4070765015430,Rasieröl Sensitive,Balea MEN,0,0,0.023
+4066447989847,Gesichtscreme Active Care LSF 30,Balea MEN,0,0,0.0
+4070765014679,Deo Zerstäuber Fresh,Balea MEN,0,0,0.0
+4070765015324,Rasiergel Ultra Sensitive,Balea MEN,0,0,0.002
+4066447993578,Antitranspirant Deo Roll-on Extra Dry,Balea MEN,0,0,0.0
+4066447882629,Be You Jelly Cleanser,dm Balea,0,1,0.71
+4070765051643,Duschschaum Dark Elegance 2in1,Balea MEN,0,0,0.0
+4066447993554,Duschgel Golden Intense 4in1,Balea MEN,0,0,0.012
+4066447854794,Augenpads Hydrogel Energy (1 Paar),Balea MEN,0,0,0.0
+4066447947892,Haargel Wet Look,Balea MEN,0,0,0.0
+4066447854886,Tuchmaske Hydro,Balea MEN,0,0,0.0
+1636177717001999,Fiore del dragone,Tesori d’Oriente,0,0,0.0
+9300673902863,Expert Repair Deep Clean + Whitening,Haleon,0,0,0.007
+9314057017203,Daily Nourish Soap-Free Wash,DermaVeen,0,0,0.001
+3253581359259,Amande Huile de Douche Shower Oil,L'occitane,0,0,0.007
+5901887039877,biosulfo - siarka olejek z werbeny,ziaja,0,0,0.01
+0810171571977,Coconut Castaway,Dr. Squatch,0,0,0.209

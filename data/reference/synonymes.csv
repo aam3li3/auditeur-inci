@@ -1,0 +1,25 @@
+variante;nom_inci;explication
+WATER;AQUA;nom anglais de l'eau
+EAU;AQUA;nom français de l'eau
+AQUA/WATER;AQUA;double appellation
+WATER/AQUA;AQUA;double appellation
+AQUA/WATER/EAU;AQUA;triple appellation
+AQUA/EAU;AQUA;double appellation
+FRAGRANCE;PARFUM;nom américain du parfum
+PARFUM/FRAGRANCE;PARFUM;double appellation
+FRAGRANCE/PARFUM;PARFUM;double appellation
+D-LIMONENE;LIMONENE;forme chimique du même allergène
+ALCOHOL DENAT;ALCOHOL DENAT.;le point fait partie du nom INCI
+ALCOOL;ALCOHOL;nom français
+GLYCERINE;GLYCERIN;orthographe française
+GLYCEROL;GLYCERIN;nom chimique
+VITAMIN E;TOCOPHEROL;nom courant
+VITAMINE E;TOCOPHEROL;nom courant français
+SHEA BUTTER;BUTYROSPERMUM PARKII BUTTER;nom courant anglais
+BEURRE DE KARITE;BUTYROSPERMUM PARKII BUTTER;nom courant français
+PURIFIED WATER;AQUA;eau purifiée
+AGUA;AQUA;nom espagnol de l'eau
+PERFUME;PARFUM;nom anglais courant
+FLAVOR;AROMA;arôme (nom américain)
+FLAVOUR;AROMA;arôme (nom anglais)
+MINERAL OIL;PARAFFINUM LIQUIDUM;nom courant de l'huile minérale
